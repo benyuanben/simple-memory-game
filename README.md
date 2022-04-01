@@ -4,7 +4,7 @@
 
 Submitted by: Ben Pu
 
-Time spent: 2-3 hours spent in total
+Time spent: 3-4 hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 https://glitch.com/edit/#!/tidy-past-grass
