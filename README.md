@@ -35,12 +35,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] List anything else that you can get done to improve the app!
+* alerts whenever a mistake has been made and tells how many mistakes have been already made.
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](https://i.imgur.com/hqbP57Y.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -59,7 +60,7 @@ Both of these problems were solved by me first writing down what could have caus
 - Having been able to make this simple interactive game, I wonder what I would need to make this website "live" and how I would maintenance it in the long run (if I plan on scaling it or if a user reports bugs/errors). I also wonder how I would be able to allow for multiple players to play concurrently because single player would be too boring over time. This leads me to think about the traffic load that the web server would be dealing with and how I would need to handle these issues. In conclusion, I think it would be the natural progression to begin considering backend and explore what things are occurring behind the scenes to allow for smooth and comfortable user experience. Having been exposed to C, I wonder how the difference in machine would cause on the code or website. One example would be how an ipad would view the website versus a 64 RAM Windows PC- would they be able to play against each other?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-- Had I been given a few more hours to work on this project, I would have definitely wanted to consider a two player mode or if time permits- a multiplayer mode. The initial idea would be to have the players take turns going and the scores would be stored in a global variable(I can have a scoreboard at the top). Aside from adding this new feature, I would also need to consider the quality of the already existing code. I wish to make the website more aesthetically pleasing and comfortable for the user because I know from personal experience that it can detract from the experience if the webpage looks bad. These things include having consistently-sized buttons, images, and legible fonts. For example, having too many colors or different font sizes would cause the user's eyes to strain.
+- Had I been given a few more hours to work on this project, I would have definitely wanted to consider a two player mode or if time permits- a multiplayer mode. The initial idea would be to have the players take turns going and the scores would be stored in a global variable(I can have a scoreboard at the top). Aside from adding this new feature, I would also need to consider the quality of the already existing code. I wish to make the website more aesthetically pleasing and comfortable for the user because I know from personal experience that it can detract from the experience if the webpage looks bad. These things include having consistently-sized buttons, images, and legible fonts. For example, having too many colors or different font sizes would cause the user's eyes to strain. Another thing is debugging the issues that pop up whenever someone tries to play multiple rounds or click the buttons too quickly. In order to allow the game to remain working over large array of actions, many countermeasures have to be placed.
 
 
 ## Interview Recording URL Link
@@ -69,7 +70,7 @@ Both of these problems were solved by me first writing down what could have caus
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright ben pu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
